@@ -1,9 +1,7 @@
-##################################
-#
-# by Zoff <zoff@zoff.cc>
-# in Aug.2006
-#
-##################################
+
+
+by Zoff <zoff@zoff.cc>
+in Aug.2006
 
 
 -- use this in postgres:
